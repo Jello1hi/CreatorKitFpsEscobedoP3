@@ -46,11 +46,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 625ccb94bf93077498982c16ee690870, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  triggerType: 1
+  triggerType: 0
   weaponType: 0
   fireRate: 0.1
-  reloadTime: 1.5
-  clipSize: 8
+  reloadTime: 1
+  clipSize: 200
   damage: 5
   ammoType: 0
   projectilePrefab: {fileID: 0}
